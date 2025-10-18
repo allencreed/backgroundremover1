@@ -1,0 +1,5 @@
+{
+  "name": "AI Background Remover",
+  "description": "An application that uses Gemini to intelligently remove the background from any image. Upload an image, click a button, and download the result with a transparent background.",
+  "requestFramePermissions": []
+}
